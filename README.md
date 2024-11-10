@@ -1,5 +1,5 @@
 # SafeGuard AI: Multi-Agent Food Compliance System
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anagha-Rao-53/safeguard-ai/blob/main/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anagha-Rao-53/multiagent-food-compliance/main.ipynb)
 
 ## Overview
 
