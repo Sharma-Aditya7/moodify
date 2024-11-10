@@ -27,14 +27,6 @@
 
 ## Example Production Records
 
-### Basic Production Information
-```
-Fresh Dairy Solutions Inc.
-Product Line: Pasteurized Whole Milk
-Batch Number: ML-2024-0428-01
-Production Date: 2024-04-28
-```
-
 ### Production Details
 ```
 Production Start Time: 06:00
