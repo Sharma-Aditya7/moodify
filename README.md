@@ -25,26 +25,30 @@
 - Run all cells in sequence
 - Access the Gradio interface through the provided public URL
 
-## Example Production Record
-Below is an example of a typical food production record that SafeGuard AI can process:
+## Example Production Records
 
+### Basic Production Information
 ```
 Fresh Dairy Solutions Inc.
 Product Line: Pasteurized Whole Milk
 Batch Number: ML-2024-0428-01
 Production Date: 2024-04-28
+```
 
-Production Details:
-- Production Start Time: 06:00
-- Batch Size: 5000 liters
-- Pasteurization Temperature: 72.5°C
-- Holding Time: 15 seconds
-- Cooling Temperature: 4°C
-- Equipment: Pasteurizer Unit #2
-- Operator: J. Smith
-- Supervisor: M. Johnson
+### Production Details
+```
+Production Start Time: 06:00
+Batch Size: 5000 liters
+Pasteurization Temperature: 72.5°C
+Holding Time: 15 seconds
+Cooling Temperature: 4°C
+Equipment: Pasteurizer Unit #2
+Operator: J. Smith
+Supervisor: M. Johnson
+```
 
-Critical Control Points (CCPs):
+### Critical Control Points (CCPs)
+```
 1. Pasteurization (CCP-1)
    - Critical Limit: Min 72°C for 15 seconds
    - Monitoring: Continuous temperature recording
@@ -59,23 +63,20 @@ Critical Control Points (CCPs):
    - Critical Limit: No metal fragments >2mm
    - Monitoring: All packages pass through metal detector
    - Corrective Action: Reject affected products, inspect equipment
+```
 
-Daily Quality Checks:
-- Raw Milk Testing:
-  * Temperature: 3.8°C
-  * pH: 6.7
-  * Antibiotic Test: Negative
-  
-- Finished Product Testing:
-  * Fat Content: 3.25%
-  * Temperature: 3.9°C
-  * Coliform Count: <10 CFU/ml
-  * Standard Plate Count: 8,000 CFU/ml
-  
-Equipment Sanitation:
-- CIP Cycle Complete: Yes
-- ATP Test Results: <15 RLU
-- Visual Inspection: Pass
+### Daily Quality Checks
+```
+Raw Milk Testing:
+* Temperature: 3.8°C
+* pH: 6.7
+* Antibiotic Test: Negative
+
+Finished Product Testing:
+* Fat Content: 3.25%
+* Temperature: 3.9°C
+* Coliform Count: <10 CFU/ml
+* Standard Plate Count: 8,000 CFU/ml
 ```
 
 ## Future Enhancements
