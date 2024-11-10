@@ -1,4 +1,5 @@
 # SafeGuard AI: Multi-Agent Food Compliance System
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Anagha-Rao-53/safeguard-ai/blob/main/main.ipynb)
 
 ## Overview
 
@@ -18,6 +19,17 @@
 - **CrewAI Framework**: Utilized for implementing multi-agent systems.
 - **Groq's Mixtral-8x7b Model**: AI model for document processing and risk analysis.
 
+## Quick Start
+
+- Open the notebook in Google Colab by clicking the "Open in Colab" badge above
+- Set up your Groq API key in Colab:
+
+- Click the 🔑 icon in the left sidebar
+- Add a new secret with name GROQ_API_KEY
+- Paste your Groq API key from Groq Cloud Console
+
+- Run all cells in sequence
+- Access the Gradio interface through the provided public URL
 
 ## Future Enhancements
 
