@@ -35,5 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- The development team for their contributions.
 - Open-source libraries and frameworks used in this project.
